@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ExerciseVideos = () => {
+const ExerciseVideos = ({exerciseVideos}) => {
   return (
     <div>
       
